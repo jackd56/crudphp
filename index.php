@@ -100,9 +100,9 @@ if(!$consulta){
                                     	<th>Nombre</th>
                                     	<th>Descripcion</th>
                                     	<th>Fecha de compra</th>
-                                        <th>Fecha de instalacioón</th>
+                                        <th>Fecha de instalación</th>
                                         <th>Tiempo de vida</th>
-                                        <th>Garanía</th>
+                                        <th>Garantía</th>
                                         <th><i class="fa fa-wrench" aria-hidden="true"></i>Opciones</th>
                                     </thead>
                                     <tbody>
